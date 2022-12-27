@@ -1,0 +1,3 @@
+rootProject.name = 'tst_tc1715_yvmciuyv_53130'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
